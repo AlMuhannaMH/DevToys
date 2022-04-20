@@ -33,7 +33,7 @@
   <PropertyGroup>
     <ProjectGuid>361db7bc-be7b-41a2-a29a-978a9e3b4aa7</ProjectGuid>
     <TargetPlatformVersion>$(Windows10SDKVersion)</TargetPlatformVersion>
-    <TargetPlatformMinVersion>$(Windows10MinSDKVersion)</TargetPlatformMinVersion>
+    <TargetPlatformMinVersion>10.0.19041.0</TargetPlatformMinVersion>
     <DefaultLanguage>en-US</DefaultLanguage>
     <GenerateAppInstallerFile>False</GenerateAppInstallerFile>
     <AppxAutoIncrementPackageRevision>False</AppxAutoIncrementPackageRevision>
